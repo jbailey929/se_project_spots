@@ -16,7 +16,7 @@ This project is made so all the elements are displayed correctly on popular scre
 
 ### Project features
 
-- HTNL
+- HTML
 - CSS
 - Semantic HTML5
 - Flexbox
@@ -27,8 +27,8 @@ This project is made so all the elements are displayed correctly on popular scre
 #### Important Links
 
 - [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-- [Link to the project on GitHub](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-- [Link to video: About Project 3](https://www.placeholderhtml.videonotcompletedyet)
+- [Link to the project on GitHub](https://jbailey929.github.io/se_project_spots/)
+- [Link to video: About Project 3 (not completed)](https://www.placeholderhtml.videonotcompletedyet)
 
 #### Images
 
