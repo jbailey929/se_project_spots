@@ -63,6 +63,7 @@
   white-space: nowrap;
   cursor: pointer;
   transition: color 0.3s ease-in-out;
+  gap: 8px;
 }
 
 .profile__edit-button:hover {
@@ -70,7 +71,7 @@
 }
 
 .profile__add-button {
-  margin: 138px auto auto;
+  margin: auto 0 0 auto;
   border: none;
   background-color: #212121;
   color: #fcf5e5;

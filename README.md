@@ -28,7 +28,7 @@ This project is made so all the elements are displayed correctly on popular scre
 
 - [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
 - [Link to the project on GitHub](https://jbailey929.github.io/se_project_spots/)
-- [Link to video: About Project 3](https://drive.google.com/file/d/1fK85ihp8DNT4lXWuikG1bXW714Fg_vI1/view?usp=drive_link)
+- [Link to video: About Project 3](https://drive.google.com/drive/folders/1QZHhG4eJLonlGTjnOqHTNOFFzjFMH8OX?usp=sharing)
 
 #### Images
 
