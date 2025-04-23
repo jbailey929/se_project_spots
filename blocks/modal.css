@@ -12,10 +12,14 @@
   font-family: "Poppins", Arial, Helvetica, sans-serif;
   font-weight: 500px;
   padding: 10px;
+  opacity: 0;
+  transition: visibility 0s linear 0.3s, opacity 0.5s linear;
 }
 
 .modal_is-opened {
   visibility: visible;
+  opacity: 1;
+  transition: visibility 0s, opacity 0.3s linear;
 }
 
 .modal__container {
